@@ -55,7 +55,7 @@
     <string name="fallacies_titles_2_2">Begründung durch Angst</string>
     <string name="fallacies_titles_2_3">Begründung durch Schmeichelei</string>
     <string name="fallacies_titles_2_4">Begründung durch Natürlichkeit</string>
-    <string name="fallacies_titles_2_5">Begründung durch Schandhaftigkeit</string>
+    <string name="fallacies_titles_2_5">Begründung durch Mitleid</string>
     <string name="fallacies_titles_2_6">Begründung durch Spott</string>
     <string name="fallacies_titles_2_7">Begründung durch Boshaftigkeit</string>
     <string name="fallacies_titles_2_8">Begründung durch Wunschdenken</string>
@@ -64,7 +64,7 @@
     <string name="fallacies_descs_2_2">Etwas wird durch die Gefährlichkeit der gegnerischen Position begründet.</string>
     <string name="fallacies_descs_2_3">Es wird ein irrelevantes Kompliment gemacht, damit dieses zusammen mit einer unbegründeten Behauptung angenommen wird.</string>
     <string name="fallacies_descs_2_4">Etwas wird richtiger, weil es \'natürlich\' ist.</string>
-    <string name="fallacies_descs_2_5">Der Andere hat unrecht, weil seine Position eine Schande ist.</string>
+    <string name="fallacies_descs_2_5">Versuch, die Position zu stützen, indem man Mitleid erregt.</string>
     <string name="fallacies_descs_2_6">Das Argument des Gegners wird so dargestellt, dass es absurd erscheint.</string>
     <string name="fallacies_descs_2_7">Etwas ist falsch, weil es dem Urheber des Arguments nützen würde.</string>
     <string name="fallacies_descs_2_8">Etwas ist wahr oder falsch, nur weil man so stark darauf hofft.</string>
